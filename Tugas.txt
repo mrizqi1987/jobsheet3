@@ -1,0 +1,6 @@
+Tugas : membuat akun github.
+ini adalah akunnya.
+dan ini adalah commit-push tugas ke-3.
+
+Nama : RIZQI MOHAMMAD SAPUTRA
+NIM : STI202102206
